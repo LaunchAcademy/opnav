@@ -1,4 +1,4 @@
 export { CurriculumContainer } from "./CurriculumContainer";
-export { Course } from "./Course";
-export { CourseMaterial } from "./CourseMaterial";
-export { CourseModule } from "./CourseModule";
+export { CourseManifest } from "./CourseManifest";
+export { CourseManifestMaterial } from "./CourseManifestMaterial";
+export { CourseModuleManifest } from "./CourseModuleManifest";
