@@ -1,6 +1,6 @@
 {
   "name": "@launchacademy/opnav",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "typescript types for curriculum",
   "main": "index.js",
   "author": "Dan Pickett",
